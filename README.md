@@ -49,7 +49,15 @@ Provide a variety of US college entrance examination content, focusing on the Ch
 
 ## Structure
 The American examination system is constantly updated, the method of examination, the difficulty of the title, etc., need accurate teaching research and timely information. We are committed to providing the latest news and teaching results show and share it to the registered users.
+![wireframe1](images/stru1.png)
 
 
 ## Skeleton
 In the navigation bar, i will provide a detailed description of the website, teachers introduction, teaching results, and set aside interactive platform to organize online or offline activities. Provide user registration, consultation and payment services.
+![wireframe1](images/S1.png)
+![wireframe1](images/S2.png)
+![wireframe1](images/S3.png)
+![wireframe1](images/S4.png)
+![wireframe1](images/S5.png)
+![wireframe1](images/S6.png)
+![wireframe1](images/S7.png)
